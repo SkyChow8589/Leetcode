@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DP_One_Dimension/DP_One_Dimension.iml" filepath="$PROJECT_DIR$/DP_One_Dimension/DP_One_Dimension.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
     </modules>
   </component>
